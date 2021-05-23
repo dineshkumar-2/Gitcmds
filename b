@@ -1,4 +1,3 @@
-Welcome toDevops
-we,nwken
-wenwe
+Welcome to Devops
+git letctures
 
